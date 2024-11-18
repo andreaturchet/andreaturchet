@@ -12,7 +12,7 @@ Welcome in my github profile, here you will find some repos related to AI topic 
 - 🖇️ LinkedIn [andrea turchet](https://www.linkedin.com/in/andrea-turchet-90a303229/)
 - Kaggle [Ciwrl1](https://www.kaggle.com/ciwrl1)
 
-
+   <h5 align="center">👇👇 Some personal skillzzz 👇👇</h5>
 <!--Graph-->
 <!--![Andrea's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andreaturket&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)-->
    <!--Front End-->
@@ -26,7 +26,7 @@ graph TD;
     AI-->Computer_vision ;
    ```
    
- <!--Coordenadas  - My Home-->
+ <!--Coords  - My Home-->
   
  ```geojson
 {
